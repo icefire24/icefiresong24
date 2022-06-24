@@ -13,10 +13,4 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=icefiresong24&theme=xcode" /> </div>
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=icefiresong24" /> </div>
 
-
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
-
-
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=What can I say,Mamba never out!&center=true&size=27"> </a> </h1>
